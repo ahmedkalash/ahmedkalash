@@ -1,13 +1,3 @@
-## Hi there 👋
-
-<!-- 
-  INSTRUCTIONS:
-  1. Go to your GitHub account and create a new repository named "ahmedkalash".
-  2. Make sure it is public and initialize it with a README.
-  3. Copy the contents of this file and paste it into that README.md.
-  4. Commit the changes and check your profile!
--->
-
 # Hi there, I'm Ahmed Kalash 👋
 
 <div align="center">
